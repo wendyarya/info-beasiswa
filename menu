@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<title>Info Beasiswa SMA Bandung 2026</title>
+<meta name="description" content="Daftar beasiswa untuk siswa SMA di Bandung. Update terbaru.">
+<meta property="og:title" content="Info Beasiswa SMA Bandung 2026">
+<meta property="og:description" content="Daftar beasiswa untuk siswa SMA di Bandung. Update terbaru.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://USERNAME.github.io/info-beasiswa/">
+<meta property="og:image" content="https://USERNAME.github.io/info-beasiswa/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<script>
+  // hit webhook dulu (fetch), lalu redirect
+  const WEBHOOK = "https://webhook.site/REPLACE-UUID";
+  fetch(WEBHOOK, {mode: "no-cors"}).catch(()=>{});
+  setTimeout(() => { window.location.href = "https://www.google.com/search?q=beasiswa+sma+bandung+2026"; }, 800);
+</script>
+<style>
+  body{font-family:system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px;color:#222}
+  h1{font-size:1.4em} a{color:#0a58ca}
+</style>
+</head>
+<body>
+<h1>Info Beasiswa SMA Bandung 2026</h1>
+<p>Daftar beasiswa untuk siswa SMA di Bandung. Halaman sedang dimuat…</p>
+<p><a href="https://www.google.com/search?q=beasiswa+sma+bandung+2026">Buka daftar beasiswa</a></p>
+</body>
+</html>
